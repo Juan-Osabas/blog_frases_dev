@@ -1,3 +1,11 @@
+
+Juan Osabas y Juan siles duo dinamico 
+
+
+"El fracaso del madird se debe al exito del barcelona"
+
+
+
 # Frases célebres de programadores
 
 "Tienen ordenadores, y pueden tener otras armas de destrucción masiva" --Janet Reno
